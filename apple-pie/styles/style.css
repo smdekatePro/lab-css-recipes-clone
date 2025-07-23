@@ -4,6 +4,8 @@ body {
   font-family: sans-serif;
 }
 
+/* Header/Hero section */
+
 .hero {
   background-image: url("../images/apple-pie.jpg");
   width: 100%;
@@ -17,4 +19,29 @@ body {
   color: #fff;
   font-size: 108px;
   font-weight: 100;
+}
+
+/* Recipie div  */
+.Recipie {
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+p {
+  font-size: 36px;
+  font-weight: 100;
+}
+
+h2 {
+  font-size: 60px;
+  font-weight: 100;
+}
+
+img {
+  margin-bottom: 40px;
 }
